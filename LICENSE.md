@@ -1,4 +1,4 @@
-# 
+# Exclusif GitHub Desktop outils pour Mac OS | Mis à jour GitHub Desktop outils pour PC Windows. Avec édition multi-curseurs et scripts de test — optimisé pour des performances maximales sur chaque plateforme.
 
 
 
